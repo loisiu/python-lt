@@ -1,0 +1,2 @@
+vayadiccionario={"alemania":"berlin","francia":"paris",mexico":"df","canada":"toronto"}
+print{vayadiccionario}

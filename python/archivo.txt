@@ -1,0 +1,3 @@
+comienzo el textora estudias Python 
+Esta linea ha sido incluida desde el interior 
+ siempre es buen momento para estudiar python
